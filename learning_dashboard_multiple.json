@@ -1,0 +1,105 @@
+{
+    "intId": "f8431937b156daa9fcc781870e254a65754d6825-1726123387233",
+    "extId": "r2ef47bqe38iwq41j8t7yquqmhzhpotoyzwgisws",
+    "name": "ﺄﺴﺗﺍﺫ Osman Goni's Class",
+    "downloadSessionDataEnabled": true,
+    "users": {
+      "w_3x04zcre5rbq-1": {
+        "userKey": "w_3x04zcre5rbq-1",
+        "extId": "w_3x04zcre5rbq",
+        "intIds": {
+          "w_3x04zcre5rbq": {
+            "intId": "w_3x04zcre5rbq",
+            "registeredOn": 1726123391000,
+            "leftOn": 0,
+            "userLeftFlag": false
+          }
+        },
+        "name": "Ustad Osman Goni",
+        "isModerator": true,
+        "isDialIn": false,
+        "currentIntId": "w_3x04zcre5rbq",
+        "answers": {},
+        "talk": {
+          "totalTime": 71351,
+          "lastTalkStartedOn": 0
+        },
+        "emojis": [],
+        "reactions": [],
+        "webcams": [],
+        "totalOfMessages": 0
+      },
+      "w_wtzuk2yw7osb-1": {
+        "userKey": "w_wtzuk2yw7osb-1",
+        "extId": "w_wtzuk2yw7osb",
+        "intIds": {
+          "w_wtzuk2yw7osb": {
+            "intId": "w_wtzuk2yw7osb",
+            "registeredOn": 1726123422030,
+            "leftOn": 0,
+            "userLeftFlag": false
+          }
+        },
+        "name": "Taseen Abdullah",
+        "isModerator": false,
+        "isDialIn": false,
+        "currentIntId": "w_wtzuk2yw7osb",
+        "answers": {},
+        "talk": {
+          "totalTime": 438970,
+          "lastTalkStartedOn": 1726124030530
+        },
+        "emojis": [],
+        "reactions": [],
+        "webcams": [
+          {
+            "startedOn": 1726123467643,
+            "stoppedOn": 0
+          }
+        ],
+        "totalOfMessages": 0
+      }
+    },
+    "polls": {},
+    "screenshares": [],
+    "presentationSlides": [
+      {
+        "presentationId": "8243eeaf263aeb06c352e3eeac08cc62599a8ad1-1726123387233",
+        "pageNum": 1,
+        "setOn": 1726123453965,
+        "presentationName": "default.pdf"
+      },
+      {
+        "presentationId": "8243eeaf263aeb06c352e3eeac08cc62599a8ad1-1726123387233",
+        "pageNum": 155,
+        "setOn": 1726124020070,
+        "presentationName": "default.pdf"
+      },
+      {
+        "presentationId": "8243eeaf263aeb06c352e3eeac08cc62599a8ad1-1726123387233",
+        "pageNum": 156,
+        "setOn": 1726124022454,
+        "presentationName": "default.pdf"
+      },
+      {
+        "presentationId": "8243eeaf263aeb06c352e3eeac08cc62599a8ad1-1726123387233",
+        "pageNum": 181,
+        "setOn": 1726124025128,
+        "presentationName": "default.pdf"
+      },
+      {
+        "presentationId": "8243eeaf263aeb06c352e3eeac08cc62599a8ad1-1726123387233",
+        "pageNum": 214,
+        "setOn": 1726124029007,
+        "presentationName": "default.pdf"
+      },
+      {
+        "presentationId": "8243eeaf263aeb06c352e3eeac08cc62599a8ad1-1726123387233",
+        "pageNum": 215,
+        "setOn": 1726124032897,
+        "presentationName": "default.pdf"
+      }
+    ],
+    "createdOn": 1726123387235,
+    "endedOn": 0
+  }
